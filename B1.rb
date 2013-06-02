@@ -1,6 +1,6 @@
 def add(first,second)
-  x = first + second
-  return x
+  n = first + second
+  return n
 end
 
 puts "Welcome to the Basic Calculator!"
